@@ -1,3 +1,5 @@
+**THE REPO IS ARCHIVED. IT HAS BEEN MERGED INTO [THIS REPO](https://github.com/andreyponomarevru/livestreamer-backend).**
+
 # LiveStreamer HTTP Client
 
 The app consists of two parts: 
