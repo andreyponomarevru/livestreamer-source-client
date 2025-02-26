@@ -1,4 +1,4 @@
-**THE REPO IS ARCHIVED. IT HAS BEEN MERGED INTO [THIS REPO](https://github.com/andreyponomarevru/livestreamer-backend).**
+**THE REPO IS ARCHIVED.**
 
 # LiveStreamer HTTP Client
 
